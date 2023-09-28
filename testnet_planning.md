@@ -40,7 +40,7 @@ In order to find correct proposal you will need to run query command using your 
 **Voting Schedule:**
 
 - Proposal: `Vote for me friend`
-- Voting Period: `21.09.2023 13:00 UTC - 24.10.2023 13:00 UTC`
+- Voting Period: `21.09.2023 13:00 UTC - 24.09.2023 13:00 UTC`
 
 **What should validators do?**
 
@@ -52,7 +52,7 @@ In order to find correct proposal you will need to run query command using your 
 
 - Make a detailed thread on Twitter about incorrect props, what number you missed, what does it mean and make a PR to the `tweets` directory of this repo.
 
-`5 points =  5000 atom for everyone who provides a peer.`
+`5 points =  5000 atom for everyone who provides a tweet url.`
 
 ---
 
@@ -72,16 +72,12 @@ In order to find correct proposal you will need to run query command using your 
 
 - Tweet url linked in a memo (Come up with something cool to say about DVS Validator School and experience in Testnet)
 
-`5 points =  5000 atom for everyone who provides a peer.`
-
-- Tweet url linked in a memo (Leave your detailed feedback in a thread (from 3 tweets) about the School of Validators. With mark `@synctem`s `@POSTHUMAN_DVS`. The review must be valid, not just praise. This will be used as a starting point for your twitter accounts and student feedback.)
-
-`5 points =  5000 atom for everyone who do this task.`
+`5 points =  5000 atom for everyone do this task.`
 
 <aside>
 📌 Participants need to raise a PR with the details onto the `transactions` directory of this repo
 
-- Time: `date and time wiil be refined later`
+- Time: `25.09.2023 15:00 UTC - 28.09.2023 15:00 UTC`
 (Only the txs in this time period are considered to be valid)
 </aside>
 
@@ -95,7 +91,9 @@ In order to find correct proposal you will need to run query command using your 
     - 70% ≤ uptime ≥ 80%
 
 `20 points =  20000 atom for everyone who have 90+% uptime`
+
 `10 points =  10000 atom for everyone who have 80-90% uptime`
+
 `5 points =  5000 atom for everyone who have 70-80% uptime`
 
 - Never jailed validator :
